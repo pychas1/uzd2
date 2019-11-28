@@ -1,7 +1,32 @@
+<!DOCTYPE html>
 <html>
-<head>
-</head>
-</body>
-<h1> testas</h1>
-</body>
+    <head>
+    </head>
+    <body>
+    <h1>Atsidarykit konsole (F12)</h1>
+        <script>
+            /* kintamųjų aprašas */
+            
+            var mas1 = [1,2,5,4,2,5,2];
+            
+            /*** Parašykite ir panaudokite funkcijas */
+            
+            //funkcija, kuri išveda į konsolę nurodytą per paramertrus masyvą 
+            function spausdinkVisaMasyva(masyvas){
+                var eil="";
+                for (var i=0; i<masyvas.length; i++){
+                    eil += masyvas[i];
+                    eil += "* ";
+                }
+                console.log(eil);
+            }
+            
+            
+            /* uždavinukai */
+            
+            spausdinkVisaMasyva(mas1);
+            
+        </script>    
+    </body>
 </html>
+

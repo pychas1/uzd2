@@ -1,0 +1,9 @@
+//
+Sukurkite funkciją, kuri per parametrus gavusi masyvą atspausdintų jį, o atskirus masyvo elementus atskirtų pasirinktu simboliu. 
+
+//
+Sukurkite funkciją, kuri per parametrus gavusi masyvą suskaičiuotų ir grąžintų visų masyvo narių sumą.
+
+//
+Sukurkite funkciją, kuri per parametrus gavusi masyvą modifukuotų jį taip, kad kiekvienas masyvo narys būtų pakeltas kvadratu. Išveskite rezultatuose: visą masyvą iki modifikavimo, visą masyvą po modifikavimo.
+
