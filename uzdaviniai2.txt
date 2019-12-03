@@ -7,3 +7,10 @@ Sukurkite funkciją, kuri per parametrus gavusi masyvą suskaičiuotų ir grąž
 //
 Sukurkite funkciją, kuri per parametrus gavusi masyvą modifukuotų jį taip, kad kiekvienas masyvo narys būtų pakeltas kvadratu. Išveskite rezultatuose: visą masyvą iki modifikavimo, visą masyvą po modifikavimo.
 
+//
+Sukurkite dar vieną masyvą. Iš pirmojo masyvo į naująjį masyvą perkelkite tik tuos masyvo skaičius, kurie yra nelyginiai. 
+Rezultatuose pateikite: pirmąjį masyvą ir antrąjį masyvą.
+
+//
+Sukurkite funkciją kuri per parametrus gavusi masyvą išvestų tik tą masyvo pusę, kurioje yra didžiausias masyvo skaičius.
+
