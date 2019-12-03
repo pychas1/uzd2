@@ -12,5 +12,14 @@ Sukurkite dar vieną masyvą. Iš pirmojo masyvo į naująjį masyvą perkelkite
 Rezultatuose pateikite: pirmąjį masyvą ir antrąjį masyvą.
 
 //
-Sukurkite funkciją kuri per parametrus gavusi masyvą išvestų tik tą masyvo pusę, kurioje yra didžiausias masyvo skaičius.
+Sukurkite funkciją, kuri per parametrus gavusi masyvą išvestų tik tą masyvo pusę, kurioje yra didžiausias masyvo skaičius.
+
+//
+Duotas skaičių masyvas. Naudodami HTML ir CSS sukurkite rezultatų išvedimo langą ir du mugtukus. Naudodami JS suprogramuokite, kad spaudant pirmąjį mygtuką būtų išvedamas vis kitas skaičius iš eilės, o spaudant kitą mygtuką būtų išvedamas vis kitas masyvo skaičius tik atbuline masyvo tvarka.
+
+//
+Naudodami HTML, CSS ir JS sukurkite paveikslėlių peržiūros galeriją (slide show). Naudodami HTML ir CSS aprašykite bloką, kuriame bus rodomas paveikslėlis. Sukurkite du mygtukus, kuriais būtų galima valdyti paveikslėlių peržiūrą (žiūrėti pirmyn, žiūrėti atgal).
+
+//
+Padaryti, kad paveikslėliai keistųsi automatiškai kas 2sekundes.
 
